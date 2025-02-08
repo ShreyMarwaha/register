@@ -1,1 +1,10 @@
-
+{
+  "repo": "https://github.com/ShreyMarwaha",
+  "owner": {
+    "username": "ShreyMarwaha",
+    "email": "shreymarwaha26@gmail.com"
+  },
+  "record": {
+    "CNAME": "ShreyMarwaha.github.io"
+  }
+}
